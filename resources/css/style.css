@@ -1,0 +1,87 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+  }
+ 
+
+  .roboto-mine {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+
+  html, body {
+    font-family: 'mine', sans-serif;
+    background-color: black;
+    color: white;
+  }
+
+ 
+  .header h1 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+  }
+  .cta {
+    color: aquamarine;
+    font-size: 21px;
+  }
+  .link {
+    text-align: center;
+    padding-top: 40px;
+  }
+  
+
+  .phone {
+    text-align: center;
+    padding-top: 30px;
+
+  }
+  .description {
+    text-align: center;
+  }
+  .description h2 {
+    font-size: 42px;
+    padding-top: 40px;
+  }
+.description p {
+    font-size: 21px;
+    padding-top: 40px;
+    color: gray;
+}
+.description img {
+    padding-top: 20px;
+}
+  .app {
+    text-align: center;
+  }
+  
+  .app h3 {
+    font-size: 42px;
+    padding-top: 30px;
+  }
+.app h4 {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+  .app a {
+    font-size: 21px;
+    color: aquamarine;
+  }
+
+  .app img {
+    padding-top: 30px;
+  }
+
+  .footer h4 {
+    text-align: right;
+    padding-right: 30px;
+    color: gray;
+    padding-bottom: 10px;
+  }
